@@ -1,1 +1,2 @@
-v1.0 - 11/2/2024 - Initial release. Still figuring out how to use FontForge.
+Evan Kurtz- v1.0 - 11/2/2024 - Initial release. Still figuring out how to use FontForge.
+Evan Kurtz- v2.0 - 11/9/2024 - Increased size of capitals to equal out the stroke weight. Adjusted kerning/sizing. Added a peace sign and a heart ligature.
